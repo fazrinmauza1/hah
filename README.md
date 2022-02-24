@@ -38,8 +38,19 @@
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
-* Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/62887435047326)
+Sapika: Baik terimakasih kepada moderator menurut kami sebagai tim kontra kembali lagi ke dampak buruknya pergaulan bebas lebih banyak dampak negatif daripada dampak positifnya itu juga terjadi dalam presentasi seperti kualitas otak akan menurun hal yang tidak di inginkan seperti sekbebas yang tidak sengaja di ketahui oleh pihak sekolah di mana mereka akan mendapat hukum dan yang paling parah yaitu di keluarkan dari sekolah juga tentu akan mempengaruhi prestasi mereka.
+
+Jadi walaupun mereka diberikan wawasan untuk mengerti dampak pergaulan bebas tim pro juga mengatakan bahwa perasaannya remaja masih sangat labil lalu mengapa mereka masih belum mengontrol apa yang terjadi pada diri mereka sendir.
+
+Karena itu pergaulan bebas harus ditiadakan sekian
+
+
+
+
+
+Sapika: Baik terimakasih kami dari tim kontra akan menyangga lagi sanggahan dari tim pro seperti yang tim pro katakan bahwa alasannya masalah keluarga yang menyimpang pergaulan bebas karena adanya pergaulan bebas apabila pergaulan bebas tidak di wajarkan,besar kemungkinan mereka yang mungkin punya masalah keluarga akan terjerumus ke dalam hal-hal positif karena dalam pergaulannya positif dan soal orang tua yang dimana kita ketahui memang seharusnya lebih bisa mengayomi akan tetapi masih juga banyak orang tua yang kurang bisa mengayomi menjadi landasan menolak pergaulan bebas
+
+Untuk meminimalisir hal-hal buruk yang terjadi karena pada dasarnya meskipun orang tua mengayomi itu balik lagi ke pada diri remaja masing masing yang kita ketahui dari awal bahwa alasannya mereka masih labil lalu untuk sanggahan pengaman walaupun sudah ada pengaman tidak meyakinkan 100% untuk tidak terjadi HIV atau kehamilan apalagi masih banyak juga remaja yang kurang beredukasi seperti untuk memakai pengaman sekian.)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
